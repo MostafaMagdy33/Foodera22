@@ -1,0 +1,37 @@
+.bg-body-tertiary { background-color: rgb(255, 255, 255) !important;
+
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+z-index: 9999;
+}
+.bg-body-tertiary img {
+
+height: 85px;
+
+}
+.ms-auto a { 
+    display: flex;
+    font-size:17px ;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bolder;
+    color: rgb(168,45,73);}
+    .ms-auto a button {
+background-color: rgb(168,45,73);
+color: white;
+font-weight: 600;
+width: 170px;
+height: 35px;
+border: 2px solid  rgb(168,45,73) ;
+    }
+
+.ms-auto a button:hover {
+    background-color:white;
+    color: rgb(168,45,73);
+ border: 2px solid  rgb(168,45,73) ;
+    
+    
+        }

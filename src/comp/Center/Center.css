@@ -1,0 +1,128 @@
+.sec3 {
+overflow: hidden;
+height: auto;
+margin-top: 100px;
+
+
+}
+.sec3 .pride {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.sec3 .pride .prideimg  img{
+width: 100%;
+height :100%;
+margin: 20px 0px 20px 0px;
+border-radius: 20px;
+
+}
+.sec3 .pride .pridetext h1 {
+    color: rgb(67,18,29);
+width: 80%;
+font-size: 38px;
+margin-bottom: 20px;
+
+
+}
+.sec3 .pride .pridetext p {
+width: 80%;
+margin-bottom: 20px;
+}
+.sec3 .pride .pridetext button{
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        width: 150px;
+        height: 50px;
+        background-color: rgb(168,45,73);
+        border: 2px solid  rgb(168,45,73) ;
+        font-weight: bold;
+        color: white;
+        margin-right: 20px;
+        margin-top: 30px;
+        transition: 1s all;
+
+}
+.sec3 .pride .pridetext button:hover{
+background-color:white;
+    border: 2px solid  rgb(168,45,73) ;
+    color: rgb(168,45,73);
+}
+/*---------end style sec 3------------*/
+
+.sec4 {
+    overflow: hidden;
+    height: auto;
+    margin-top: 100px;
+    
+    }
+    .sec4 .ingredients {
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    .sec4 .ingredients .ingredientsimg  img{
+    width: 110%;
+    height :100%;
+    margin: 20px 0px 20px 0px;
+  
+    
+    }
+    .sec4 .ingredients .ingredientstext h1 {
+        color: rgb(67,18,29);
+    width: 80%;
+    font-size: 38px;
+    margin-bottom: 20px;
+    
+    
+    }
+    .sec4 .ingredients .ingredientstext p {
+    width: 80%;
+    margin-bottom: 20px;
+    
+
+    }
+    .sec4 .ingredients .ingredientstext button{
+    
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            width: 150px;
+            height: 50px;
+            background-color: rgb(168,45,73);
+            border: 2px solid  rgb(168,45,73) ;
+            font-weight: bold;
+            color: white;
+            margin-right: 20px;
+            margin-top: 30px;
+            transition: 1s all;
+    
+    }
+    .sec4 .ingredients .ingredientstext button:hover{
+    background-color:white;
+        border: 2px solid  rgb(168,45,73) ;
+        color: rgb(168,45,73);
+    }
+
+/*---------end style sec 4------------*/
+
+.sec5 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-image: url('/public/img/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 55vh;
+}
+.sec5 .col-lg-12 h1{
+    color: rgb(168,45,73);
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+/*---------end style sec 5------------*/
+ 

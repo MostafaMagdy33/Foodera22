@@ -1,0 +1,70 @@
+.sec2 {
+
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+background-color: rgb(168,45,73);
+height: auto;
+
+
+
+
+}
+.sec2 .text-sec2{
+ color: white;
+ font-weight: bold;
+ margin:30px 0px 30px 0px
+}
+  /*           strat footer       */
+
+.sec10 {
+overflow: hidden;
+height: auto;
+background-color: rgb(168,45,73);
+
+
+
+}
+.sec10 .footerdiv {
+   margin-top: 70px;
+   margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+
+
+}
+.sec10 .footerdiv .footerlink a {
+ margin: 10px;
+font-size: 18px;
+font-weight: bold;
+color:white ;
+text-decoration: none;
+
+}
+.sec10 .footerdiv .footerlink a:hover {
+
+   border-bottom: 2px solid white;
+
+}
+.sec10 .footerdiv .footer-social{
+    margin-top: 30px;
+}
+.sec10 .footerdiv .footer-social i {
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color:white ;
+cursor: pointer;
+
+}
+.sec10 .footerdiv .footer-social div {
+
+    color: white;
+    font-size: 17px;
+    margin-top: 30px;
+}

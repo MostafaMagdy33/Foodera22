@@ -1,0 +1,38 @@
+.sec8 {
+height: auto;
+overflow: hidden;
+margin-bottom: 50px;
+
+}
+.sec8 .Faq h1 {
+text-align: center;
+color: rgb(67,18,29);
+margin: 30px 0px 50px 0px;
+}
+.sec8 .Faq .left-sec div h4 {
+    font-weight: bold;
+    color: rgb(67,18,29);
+}
+.sec8 .Faq .left-sec div h4 span {
+color: rgb(249,145,131);
+font-size: 20px;
+
+} 
+.sec8 .Faq .left-sec div p {
+   font-size: 15px;
+   line-height: 30px;
+}
+
+.sec8 .Faq .right-sec div h4 {
+    font-weight: bold;
+    color: rgb(67,18,29);
+}
+.sec8 .Faq .right-sec div h4 span {
+color: rgb(249,145,131);
+font-size: 20px;
+
+} 
+.sec8 .Faq .right-sec div p {
+   font-size: 15px;
+   line-height: 30px;
+}

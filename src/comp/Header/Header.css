@@ -1,0 +1,65 @@
+.sec1{
+ background-image: url('/public/img/3.jpg')  ;
+ background-repeat: no-repeat;
+ background-size: cover;
+height: 80vh;
+overflow: hidden;
+}
+
+.sec1 .text-header h1 {
+    
+    margin-top: 200px;
+font-size: 52px;
+font-weight: 620;
+color: rgb(67,18,29);
+width: 80%;
+
+}
+.sec1 .text-header p {
+    margin-top: 20px;
+    width: 70%;
+    }
+
+    .sec1 .text-header .Order 
+{box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+width: 150px;
+height: 50px;
+background-color: rgb(168,45,73);
+border: 2px solid  rgb(168,45,73) ;
+font-weight: bold;
+color: white;
+margin-right: 20px;
+margin-top: 30px;
+transition: 1s all;
+}
+.sec1 .text-header .Order:hover{
+    background-color:white;
+    border: 2px solid  rgb(168,45,73) ;
+    color: rgb(168,45,73);
+
+}
+.sec1 .text-header .Learn {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color:white;
+    outline: none;
+    border: none;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    color: black;
+    margin-right: 20px;
+    margin-top: 30px;
+transition: 0.5s all;
+
+
+}
+.sec1 .text-header .Learn:hover{
+    background-color:white;
+    border: 2px solid  rgb(168,45,73) ;
+    color: rgb(168,45,73);
+}
+
+
+
+
+    
